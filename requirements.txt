@@ -1,0 +1,16 @@
+# Python 3.11.15
+# Install with:  pip install -r requirements.txt
+# RDKit is also available from conda-forge (see environment.yml).
+rdkit==2026.3.3
+mordred==1.2.0
+numpy==1.26.4
+pandas==3.0.3
+scipy==1.17.1
+scikit-learn==1.9.0
+xgboost==3.2.0
+catboost==1.2.10
+lightgbm==4.6.0
+shap==0.51.0
+matplotlib==3.10.9
+joblib==1.5.3
+jupyterlab==4.6.1

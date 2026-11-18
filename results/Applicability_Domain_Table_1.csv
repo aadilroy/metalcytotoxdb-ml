@@ -1,0 +1,5 @@
+Category,Criteria,Number of compounds,Percentage (%)
+Inside applicability domain,h ≤ h* and |Residual| ≤ 3,20102,93.76
+Structural outliers,h > h*,1097,5.12
+Response outliers,|Residual| > 3,236,1.1
+Structural & response outliers,h > h* and |Residual| > 3,5,0.02

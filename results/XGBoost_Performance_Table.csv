@@ -1,0 +1,3 @@
+Dataset,R²,RMSE,MAE,Pearson r,Pearson p-value,Spearman ρ,Spearman p-value
+Training,0.9206,0.2266,0.1633,0.9622,0.0,0.9601,0.0
+Testing,0.7932,0.3565,0.2573,0.892,0.0,0.8865,0.0

@@ -1,0 +1,5 @@
+Model,Test R²,MAE,RMSE
+Random Forest,0.3369,0.4834,0.6381
+XGBoost,0.3745,0.4704,0.6198
+CatBoost,0.3737,0.47,0.6201
+LightGBM,0.3651,0.4689,0.6244
